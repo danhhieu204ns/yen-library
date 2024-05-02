@@ -1,0 +1,14 @@
+.nav-btn {
+    height: 40px;
+    width: 160px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    padding: 40px 20px 40px 20px;
+}
+
+a {
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+}
