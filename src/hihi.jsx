@@ -4,3 +4,5 @@ const hihi = () => {
         </>
     )
 }
+
+export default hihi;
