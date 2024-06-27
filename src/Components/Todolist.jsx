@@ -16,7 +16,7 @@ const TotoList = () => {
 
     return (
         <>
-            <h1>Todo List</h1>
+            <h1>Todo List Hehe</h1>
             <input type="text" onChange={(e) => handleOnChange(e.target.value)} value={todo}></input>
             
             <button onClick={handeOnClick}>Submit</button>
